@@ -1,0 +1,29 @@
+{
+  "id": 74313296,
+  "assistantCategoryList": [
+    {
+      "id": 51093664,
+      "name": "娱乐",
+      "categoryItemList": [
+        {
+          "id": 74457632,
+          "categoryItemType": 0,
+          "desc": "电影",
+          "address": "https://www.o8tv.com/"
+        }
+      ]
+    },
+    {
+      "id": 52603872,
+      "name": "资料",
+      "categoryItemList": [
+        {
+          "id": 52603968,
+          "categoryItemType": 0,
+          "desc": "scrapy安装和基本使用",
+          "address": "https://blog.csdn.net/weixin_43400774/article/details/124371101"
+        }
+      ]
+    }
+  ]
+}
